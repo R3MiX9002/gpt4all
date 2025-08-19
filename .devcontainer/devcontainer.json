@@ -1,0 +1,7 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {callabrator= x*y*z und -x*-y*-z wird collabriert/kalkuliert und generiert durch die Taktraten 133hz  1hz 0,77 Hz = 200 +1 +200 +1  und so weiter da 133hz +0,77hz +1 + 077hz + 133hz +1hz  und so weiter.
+
+Callabrator=x ist eine variable von 0-9/A-z und erstellt einen Sektor und einen Speicherblock registrationscode der Festpalltenspeicher somit ein Sortiertes und Aufgeräumtes Speichermedium ist, das sich durch die Block und Sektor Registration die gespeicherten Daten aufrufen/Speichern/erlesen/schreiben darf z.B Sektor 32 Block 4 ist gleich Block4D8Sektor328D.db reg in Cache Kapazität Je Blocks 100GB ist ca. 1TB gesamt bei 10 Blocks,  Je Sektor Kapazität 1,5625 GB ist 64 Sektoren 
+der Memory Datensatz besteht auch 1nmmb - ca. 1 Terabyte und hat eine Datenübertragungsbandbreite von 512-Bit Hochgeschwindigkeitsnetzwerk unterstützt durch Framework Remix ergibt es einen Datenspeicher mit einer Kapazität bis  zu 1 TB und eine Memory/Zwischenspeicher von 8GB mit einer Datenübertragungsbandbreite von 512 Bit/nmms da datenschub mindestens 8MB Bit Cache für die Bandbreitenkalulationausgabe. das ergibt  ca. 800Gb/s +- 200GB je nach Upload und Download/ Erlesen und Schreiben an Daten Datenübertragungsgeschwindigkeit.   }
+}
